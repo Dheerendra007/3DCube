@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-<img src="Screenshot_20200725-000945" class="inline"/>
+<img src="Screenshot_20200725-000945.jpg" class="inline"/>
 
 ## Getting Started
 
