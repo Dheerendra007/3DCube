@@ -1,0 +1,62 @@
+# Blender MTL File: 'None'
+# Material Count: 6
+
+newmtl desert
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.690196 0.690196 0.690196
+Ks 0.012549 0.012549 0.012549
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd camels-desert-landscape-53537.jpg
+
+newmtl home
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.690196 0.690196 0.690196
+Ks 0.012549 0.012549 0.012549
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd homeside.png
+
+newmtl mountains
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.690196 0.690196 0.690196
+Ks 0.012549 0.012549 0.012549
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd evening-lake-lake-mcdonald-326058.jpg
+
+newmtl puy_de_sancy
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.690196 0.690196 0.690196
+Ks 0.012549 0.012549 0.012549
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd w-sancy-val-enfer-val-courre-e1496398988365.jpg
+
+newmtl space
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.690196 0.690196 0.690196
+Ks 0.012549 0.012549 0.012549
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd galaxy-infinity-milky-way-110854.jpg
+
+newmtl underwater
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.690196 0.690196 0.690196
+Ks 0.012549 0.012549 0.012549
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd corals-divers-diving-37542.jpg
