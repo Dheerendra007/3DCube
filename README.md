@@ -1,4 +1,4 @@
-# cube_app
+# 3D Cube
 
 A new Flutter project.
 
